@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TimerPage.qml</file>
+        <file>CronometroPage.qml</file>
+        <file>ClockPage.qml</file>
+        <file>AlarmPage.qml</file>
+    </qresource>
+    <qresource prefix="/Clocks">
+        <file>UsualClock.qml</file>
+        <file>CircularClock.qml</file>
+        <file>MolecularClock.qml</file>
+        <file>BinaryClock.qml</file>
+    </qresource>
+</RCC>
